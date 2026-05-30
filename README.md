@@ -2,7 +2,7 @@
 
 [Vishal Ramesha](https://github.com/iVishalr), [Abhishek Aditya BS](https://github.com/Abhishek-Aditya-bs), [Yashas Kadambi](https://github.com/Yashas120), [T Vijay Prashant](https://github.com/tvijayprashant), [Shylaja S S](https://scholar.google.co.in/citations?user=X365OjgAAAAJ&hl=en)
 
-[[Paper]](#)
+[[Paper]](https://ojs.bonviewpress.com/index.php/AIA/article/view/1930) [[PDF]](./doc/paper/SWIFT-paper.pdf) [[Website]](https://swift-website.pages.dev)
 
 This repository contains the official implementation for the paper titled _"Towards Faster and Efficient Lightweight Image Super Resolution using SwinV2 Transformers and Fourier Convolutions"_.
 
@@ -354,11 +354,15 @@ comparisons for different model architecture types is indicated by \* (asterisks
 
 If you find our work useful in your works, please use the below citation. Thank You!
 
-    @InProceedings{ramesha2023towards,
-        author    = {Vishal Ramesha and Abhishek Aditya BS and Yashas Kadambi and T Vijay Prashant and Shylaja S S},
-        title     = {Towards Faster and Efficient Lightweight Image Super Resolution using Swin Transformers and Fourier Convolutions},
-        booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-        date      = {2023}
+    @article{ramesha2024swift,
+        author  = {Vishal Ramesha and Yashas Kadambi and B. S. Abhishek Aditya and T. Vijay Prashant and S. S. Shylaja},
+        title   = {Toward Faster and Efficient Lightweight Image Super-Resolution Using Transformers and Fourier Convolutions},
+        journal = {Artificial Intelligence and Applications},
+        year    = {2024},
+        volume  = {3},
+        number  = {2},
+        pages   = {168--178},
+        doi     = {10.47852/bonviewAIA42021930}
     }
 
 ## License

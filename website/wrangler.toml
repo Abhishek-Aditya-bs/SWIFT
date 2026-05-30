@@ -1,0 +1,3 @@
+name = "swift-website"
+compatibility_date = "2025-05-01"
+pages_build_output_dir = "dist"
